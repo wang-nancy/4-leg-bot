@@ -8,7 +8,7 @@ interactive 3D preview, and neutral export formats that open without SolidWorks.
 
 **[▶ Open the interactive 3D model](finalbotview.STL)** — click to rotate, pan, and zoom
 right here on GitHub.
-(preview.png)
+![Preview](preview.png)
 
 ## Design
 
@@ -27,7 +27,7 @@ right here on GitHub.
 
 ## A note on material and mass
 
-The model is currently plain carbon steel, which is dense — at real scale the assembly
+The model is currently plain carbon steel, which is dense. At real scale the assembly
 comes out heavy for legs this slender. For an actual build, a lighter material (aluminum
 or a printed polymer) would cut the mass dramatically while keeping the geometry; steel is
 fine as the baseline CAD material but isn't the practical build choice.
