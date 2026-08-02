@@ -6,7 +6,7 @@ and export formats that open without SolidWorks installed.
 
 ## 3D preview
 
-**[▶ Open the interactive 3D model](finalbotview.stl)** — click to rotate, pan, and zoom
+**[▶ Open the interactive 3D model](finalbotview.STL)** — click to rotate, pan, and zoom
 right here on GitHub.
 
 <!-- Add a hero render here once you have one:
